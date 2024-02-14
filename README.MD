@@ -1,0 +1,5 @@
+<title>Blog de Café</title>
+
+<h1>Página web de blog de café</h1>
+
+Esta es una pagina creada en unos de mis cursos de diseño web. aplicando diseño responsive
